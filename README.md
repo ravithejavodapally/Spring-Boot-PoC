@@ -1,2 +1,2 @@
 # Spring-Boot-PoC
-Sample project on Spring boot PoC
+Sample project on Spring Boot Microservices
